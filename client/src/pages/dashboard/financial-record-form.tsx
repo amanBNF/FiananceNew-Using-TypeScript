@@ -1,5 +1,6 @@
 import { useState } from "react";
 import {useUser} from "@clerk/clerk-react"
+import './financial-record-form.css'
 
 export const FinancialRecordForm = () => {
 
